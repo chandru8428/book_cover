@@ -110,7 +110,8 @@ Publish the website in the LocalHost.
     </div>
      </body>
     </html>
-    ```
+
+```
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/907a9a1b-d73b-4d42-bda6-719e5212d09a)
 
