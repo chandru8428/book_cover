@@ -29,8 +29,9 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
-      <!DOCTYPE html>
-     <html lang="en">
+```
+ <!DOCTYPE html>
+<html lang="en">
      <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,9 +45,8 @@ Publish the website in the LocalHost.
             justify-content: center;
             align-items: center;
             font-family: Arial, sans-serif;
-            
-        }
-        .cover {
+             }
+      .cover {
             width: 440px;
             height: 656px;
             border: 5px solid #000;
@@ -97,7 +97,7 @@ Publish the website in the LocalHost.
         
         
         
-    </style>
+ </style>
      </head>
      <body>
     <div class="cover">
@@ -110,6 +110,7 @@ Publish the website in the LocalHost.
     </div>
      </body>
     </html>
+    ```
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/907a9a1b-d73b-4d42-bda6-719e5212d09a)
 
